@@ -45,7 +45,8 @@ Automation tools and practice Python programs.
 ## 📫 Contact
 
 - GitHub: https://github.com/Ali-Raza21X
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/ali-raza-b07aab356
+
 
 ---
 
