@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Ali Raza 👋
 
-<!--
-**Ali-Raza21X/Ali-Raza21X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Python Backend Developer (Self-Taught)
 
-Here are some ideas to get you started:
+I am a Python backend developer focused on building real-world applications using Flask, SQLite, and CLI tools. I am currently building my portfolio through hands-on projects instead of just theory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+- Python 🐍
+- Flask 🌐
+- SQLite 🗄️
+- HTML / CSS / JavaScript
+- Git & GitHub
+- CLI Automation Tools
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Flask Authentication System
+Login/registration system with Flask and session-based authentication.
+
+### 🔹 Flask Blog Application
+Full CRUD blog system with database integration.
+
+### 🔹 Library Management System (Major Project)
+Role-based system (Admin/User) with borrowing, returning, and history tracking.
+
+### 🔹 CLI Python Projects
+Automation tools and practice Python programs.
+
+---
+
+## 📈 Current Focus
+
+- Django (learning phase)
+- Advanced Flask architecture
+- REST APIs
+- Portfolio enhancement
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Ali-Raza21X
+- LinkedIn: (add your link here)
+
+---
+
+⭐ I build projects daily to improve backend development skills.
