@@ -2,7 +2,7 @@
 
 ## 🚀 Python Backend Developer (Self-Taught)
 
-I am a Python backend developer focused on building real-world applications using Flask, SQLite, and CLI tools. I am currently building my portfolio through hands-on projects instead of just theory.
+I am a Python backend developer focused on building real-world applications using Flask,Django, SQLite, and CLI tools. I am currently building my portfolio through hands-on projects instead of just theory.
 
 ---
 
@@ -10,6 +10,7 @@ I am a Python backend developer focused on building real-world applications usin
 
 - Python 🐍
 - Flask 🌐
+- Django
 - SQLite 🗄️
 - HTML / CSS / JavaScript
 - Git & GitHub
@@ -19,8 +20,8 @@ I am a Python backend developer focused on building real-world applications usin
 
 ## 📌 Featured Projects
 
-### 🔹 Flask Authentication System
-Login/registration system with Flask and session-based authentication.
+### 🔹 Event Management System
+ Admin rol user roel system with Flask and session-based authentication with database management.
 
 ### 🔹 Flask Blog Application
 Full CRUD blog system with database integration.
