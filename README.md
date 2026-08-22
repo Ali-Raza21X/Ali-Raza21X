@@ -1,54 +1,121 @@
 # Hi, I'm Ali Raza 👋
 
-## 🚀 Python Backend Developer (Self-Taught)
+## 🚀 Python Backend Developer
 
-I am a Python backend developer focused on building real-world applications using Flask,Django, SQLite, and CLI tools. I am currently building my portfolio through hands-on projects instead of just theory.
+I'm a self-taught Python backend developer focused on building real-world, database-driven applications using **Python, Django, Flask, and SQL**.
 
----
-
-## 🧠 Tech Stack
-
-- Python 🐍
-- Flask 🌐
-- Django
-- SQLite 🗄️
-- HTML / CSS / JavaScript
-- Git & GitHub
-- CLI Automation Tools
+I learn by building complete projects — from database design and authentication to role-based permissions, CRUD operations, deployment, and production debugging.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-### 🔹 Event Management System
- Admin rol user roel system with Flask and session-based authentication with database management.
+### Backend
 
-### 🔹 Flask Blog Application
-Full CRUD blog system with database integration.
+* Python 🐍
+* Django
+* Flask
+* SQL
+* SQLite
+* MySQL
 
-### 🔹 Library Management System (Major Project)
-Role-based system (Admin/User) with borrowing, returning, and history tracking.
+### Frontend
 
-### 🔹 CLI Python Projects
-Automation tools and practice Python programs.
+* HTML
+* CSS
+* Bootstrap
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* REST APIs
+* CLI Development
+* PythonAnywhere
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Student Management System
+
+A complete Django-based school management system with role-based access for **Admin, Teachers, Students, and Parents**.
+
+**Features:**
+
+* Role-based authentication and permissions
+* Admin, Teacher, Student & Parent dashboards
+* Student and teacher management
+* Classes and subjects
+* Attendance management
+* Mid-Term & Final-Term marks
+* Report cards
+* CRUD operations
+* Demo data
+* Live deployment
+
+🌐 **Live Demo:** https://alirazadev.pythonanywhere.com/
+
+💻 **Repository:** https://github.com/Ali-Raza21X/Student-Management-System
+
+---
+
+### 📚 Library Management System
+
+A major Python/Flask project featuring role-based access, borrowing and returning books, and borrowing history tracking.
+
+💻 **Repository:** https://github.com/Ali-Raza21X/ali-raza-portfolio/tree/master/03-major-library-system
+---
+
+### 📝 Flask Blog Application
+
+A database-driven blog application with CRUD functionality and user authentication.
+
+💻 **Repository:** https://github.com/Ali-Raza21X/BLOG_APP-FLASK-
+
+---
+
+### 📅 Event Management System
+
+A Flask-based event management application with admin/user roles, session-based authentication, and database management.
+
+💻 **Repository:** https://github.com/Ali-Raza21X/CodeAlpha-InternProjects/tree/main/CodeAlpha_EMS
+
+
+---
+
+### 🐍 CLI Python Projects
+
+A collection of Python command-line applications and automation/practice projects focused on strengthening Python fundamentals and problem-solving skills.
+
+💻 **Repository:** https://github.com/Ali-Raza21X/python-cli-projects
 
 ---
 
 ## 📈 Current Focus
 
-- Django (learning phase)
-- Advanced Flask architecture
-- REST APIs
-- Portfolio enhancement
+* Django backend development
+* REST APIs
+* Authentication & authorization
+* Database design
+* Deployment and production development
+* Building scalable backend applications
 
 ---
 
-## 📫 Contact
+## 📚 Learning Approach
 
-- GitHub: https://github.com/Ali-Raza21X
-- LinkedIn: www.linkedin.com/in/ali-raza-b07aab356
+I focus on learning through **hands-on development** rather than only studying theory.
 
+My goal is to continuously build, deploy, debug, and improve real-world applications while strengthening my backend engineering skills.
 
 ---
 
-⭐ I build projects daily to improve backend development skills.
+## 📫 Connect With Me
+
+* 💻 GitHub: https://github.com/Ali-Raza21X
+* 🔗 LinkedIn: https://www.linkedin.com/in/ali-raza-b07aab356
+
+---
+
+⭐ Thanks for visiting my profile!
